@@ -1,2 +1,2 @@
 #Hello there
-This is the readme for the first file
+This system engineering devops folder is part of ALX curriculum and contains numerous devops projects.
